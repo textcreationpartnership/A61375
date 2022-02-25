@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Discovery of the education of the scholars of Cambridge by their abominations and wicked practices acted upon, and against, the despised people, in scorn call Quakers : brought forth by the young ministers at severall times in the said town, whereby all men may see the unchristian breeding, and the horrible fruits of the university-men, and how that the spirit of the whore and false prophet, and the remainder of the dreggs of popery boyles up in them, in persecution, and madness, and ignorance, and this is written for all sober people to read and consider.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61375</idno>
+            <idno type="STC">Wing S537</idno>
+            <idno type="STC">ESTC R18943</idno>
+            <idno type="EEBO-CITATION">12440132</idno>
+            <idno type="OCLC">ocm 12440132</idno>
+            <idno type="VID">62086</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61375)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62086)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 947:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Discovery of the education of the scholars of Cambridge by their abominations and wicked practices acted upon, and against, the despised people, in scorn call Quakers : brought forth by the young ministers at severall times in the said town, whereby all men may see the unchristian breeding, and the horrible fruits of the university-men, and how that the spirit of the whore and false prophet, and the remainder of the dreggs of popery boyles up in them, in persecution, and madness, and ignorance, and this is written for all sober people to read and consider.</title>
+                  <author>Sammon, Edward.</author>
+                  <author>Peace, John, 17th cent.</author>
+               </titleStmt>
+               <extent>15, [i.e. 14] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to Edward Sammon. cf. NUC pre-1956.</note>
+                  <note>Includes at end: Coppy of a letter ... by John Peace.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62086:1"/>
+            <pb facs="tcp:62086:1"/>
+            <p>A DISCOVERY OF THE EDUCATION OF THE Schollars of Cambridge; BY Their Abominations and wicked Practiſes acted upon, and againſt, the Deſpiſed People, in ſcorn Called <hi>QUAKERS.</hi>
+            </p>
+            <p>Brought forth by the young Mini<g ref="char:EOLhyphen"/>ſters at ſeverall times in the ſaid Town: whereby all Men may ſee the unchriſtian Breeding, and the horrible Fruits of the Uni<g ref="char:EOLhyphen"/>verſity-Men; And how that the Spirit of the Whore and falſe Prophet, and the remainder of the Dreggs of Popery boyles up in them, in Perſecution, and Madneſs, and Ignorance; And this is Written for all ſober People to Read and Conſider.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert,</hi> and are to be ſold at the Signe of the Black ſpread-Eagle, at the Weſt end of <hi>Paul's,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:62086:2"/>
+            <pb n="3" facs="tcp:62086:2"/>
+            <head>To You that be the Heads of the NATION.</head>
+            <p>HEre is a Declaration of the Sufferings of the People of God in <hi>Cambridge,</hi> by the Savage Schollers, and Others now called young Miniſters; whoſe practice follows <hi>Oxford</hi> their Example: which two Places are called the Well-Heads, two Eyes, two Mothers, two ſeed-Plots of good Nurſery; the Fountains of Piety, and Nurſes of Virtue: Now ſee whether they do not ſhew that they are puddles and unſavory, and their People are bred up in filth, and to filthyneſs as their Actions and Fruits declares it to all People, and for conſcience-ſake towards God they cannot feed them, whoſe Fruits thus ſhews forth themſelves; That are a diſgrace to their Heads called Vice-Chancellors, Doctors, and Proctors; and a Diſhonour to Virtue, and to Breeding, and to Modeſty, and to Go<g ref="char:EOLhyphen"/>vernment, and to the Heads of this Nation that feeds them; That theſe Fruits ſhould appear openly like <hi>Sodom</hi> and <hi>Gomorrah;</hi> Idleneſſe, Wickedneſſe, and Filthyneſſe; theſe things will ſtink among the Hea<g ref="char:EOLhyphen"/>then, and be loathſome among them; nor is not of a good Report, but a ſhame to all that have the name of a Miniſter, and are not worthy to have the name, and a diſhonour and a ſhame to all their Tutors and Proctors in <hi>Oxford</hi> and <hi>Cambridge,</hi> (as ſee <hi>Oxford</hi> Sufferings Printed, at <hi>Thos Symonds</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi>) and are a ſhame to all their Parents that ſends them thither, and it is enough to make all ſober People to be afraid to ſend their Children there, for fear there they ſhould be ſpoyled; and they are a diſhonour to Chriſtianity, and all them that profeſſeth Faith in God, and owns Jeſus Chriſt, the holy Example, to be their Rule to walk by.</p>
+            <p>
+               <hi>Anne Cock</hi> Widdow, aged about threeſcore years, being moved of the Lord to go to <hi>Sidney Colledge Chappel</hi> in the time of their Wor<g ref="char:EOLhyphen"/>ſhip, and they being ſinging <hi>David</hi>'s Conditions, did ſay unto them, in the Word of the Lord. <hi>That their Praiſes and Services were not ac<g ref="char:EOLhyphen"/>ceptable to the Lord, but they were an abomination to Him;</hi> and ſhe had no ſooner ſpake theſe Words, but ſhe was hauled out by one <hi>John
+<pb n="4" facs="tcp:62086:3"/>Hudſon</hi> a Glover, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he did kick her all the way out of the <hi>Colledge,</hi> and did juſtle her againſt the Colledge Gates, and as ſhe was paſſing homeward to her outward dwelling Place, one of the aforeſaid <hi>Hud<g ref="char:EOLhyphen"/>ſon</hi>'s Daughters was at a Pump right againſt her Fathers houſe, and threw warer upon her into her neck; and paſſing a little further, one <hi>Edmond Sa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter</hi> a Taylor, did throw a piſs-pot of Urine upon her, and ſeveral other abuſes which the poor old Woman hath ſuffered, which would be too tedious to relate; Likewiſe, another poor old Woman being moved to go to the Steeple Houſe, before that ſhe could get into it, to declare her meſſage, ſhe was ſtopped by the rude multitude both of Schollars and Others; and hauled away, they thrown againſt the ground, and kicked and ſtoned along the Streets, and threw dirt upon her, and abuſed her ſhamefully; and ſeveral other times ſhe hath been perſecuted either coming into the Town, or coming home, her Houſe being almoſt at the Towns-end: Likewiſe two Maides paſſing out of the Town with a Friend, they were mocked at, and ſcoffed at, and abu<g ref="char:EOLhyphen"/>ſed; and at length paſſing over a Bridge (they were both thrown into the Water by the Schollars, and one of them was almoſt ſtifled in the Wa<g ref="char:EOLhyphen"/>ter, and the Schollars mocked them, and ſaid they had Baptized them) they threw them off of a high ſtone Bridge into a deep and dangerous place, and it was a mercy they were not drowned.</p>
+            <p>And <hi>John Peace</hi> paſſing out of the Town in the Winter Seaſon, when the Snow was great, the unruly Boyes ſeeing him coming, they haſted to make great Snowballs; and when he paſſed by, they threw at him with all the Force they could; &amp; one ſnow-ball hit him on the Eye, ſo as he thought it had dropt out into his hand, ſo that his Eye was very ſore for a Week: and at another time ſtanding in the Market-place in Obe<g ref="char:EOLhyphen"/>dience to the Lord, he was mocked, and ſcoffed, and abuſed, and kick<g ref="char:EOLhyphen"/>ed by the Schollars, and they thruſt pinns into his Leggs; and likewiſe there was one rude Fellow did come upon his Back, and thruſt him with all the force he could from one end of the Market Hill to the other, ſeveral times, inſomuch as he could hardly keep himſelf from falling.</p>
+            <p>And <hi>Luce Feild</hi> going to the Steeple Houſe with another freind, ſhe with the other Woman had their Head-cloaths pul'd off their Heads by the Schollars, and their Cloathes rent and torn, and abuſed them very ſhamefully, and threw dirt and dirted their Faces and Eyes, that they could not ſee. And when our Friends have been moved to ſpeak to the Schollars, they threatned to kick them; This we have ſuffered, be<g ref="char:EOLhyphen"/>ſides all other abuſes we have ſuffered from time to time, going to
+<pb n="5" facs="tcp:62086:3"/>Meetings, and about our Occaſions; ſometimes being ſtoned, and dirt flung upon us, and our Cloathes torne and rent-in-pieces, and ſpit in our Faces as we paſs along the Streets; all which is, and hath been done by the Schollars and young Miniſters (ſo called,) at the Nurſery of young Miniſters, as they are called: And when theſe comes from their Nurſery, they ſell their Ware at a dear rate; and after all theſe things had been done unto us, by the Nurſery of young Miniſters, and we had patiently borne all theſe things of the Schollars, at the length it was ſo ordered for the truths ſake, that we ſuffer for, That we hired a Houſe for a publique Meeting place, and then as truth began more and more to be publiſhed openly, the rage of the Heathen began to be great: And firſt of all the Schollars envy appeared againſt the Houſe, and ſome wiſhed that it were pulled down, others that it were burnt down to the ground; and in the night time the Schollars threw ſtones and dirt againſt the VVindowes, and broke the VVindowes very much; and they ſhott Bullets into the Chambers at us, and ſlung great ſtones; but the Man that we hired the Houſe of, carryed them to the Maſter of the Colledge, and ſhewed them to him, and told him, how that if thoſe things were ſuffered, That he durſt not lye in the rooms, and ſaid, he lay in danger of his Life, or words to that purpoſe; and then he making them give him ſatisfaction for breaking the VVindowes, they were a little quiet as to that thing: then the Prieſts and Profeſſors began to be in a great rage, and would have given any thing to have prevented our Meetings ſo publiquely; and ſome (as the Man informed us, which we hired the Houſe of) offered ſums of money to have prevented our Mee<g ref="char:EOLhyphen"/>tings, and the Prieſts would have given the Man that Lett us the Houſe ſo much a year as we gave for it, to have prevented us of the Houſe; and one (who is called Mr. <hi>Huffe,</hi> one of Jeſus Colledge ſo called,) as we are informed, offered 10 l. for his own particular, That the Houſe might be taken from us again: And one who is called Major <hi>Jordan,</hi> which was a Maſter of Arts, as they call them, That have taken the De<g ref="char:EOLhyphen"/>gree whereby they may go forth to deceive the People, (he now lives as a private man in the Town) he ſaid, if God's Plague was in the Houſe, (meaning the Meeting-place,) it could not be more offenſive to the Colledges then the Quakers Meetings were: and moreover encoura<g ref="char:EOLhyphen"/>ged the rude Schollars, and the young Miniſters (ſo called) to rudeneſs; and he ſaid further, That the Man that lett us the Houſe, had better have ſet fire to it, and have burnt it down, then to have let us have it.</p>
+            <p>And further as any Friends came out of the Country to hear the Truth declared, they were ſtopped, and had before Alderman <hi>Br<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>an,</hi>
+               <pb n="6" facs="tcp:62086:4"/>as looking upon him to be the Man to act moſt againſt the Truth, he being a great favourite of the rude Prieſts, having much trading by and from them; but as he did commit any to Cuſtody, the then Mayor did ſet them Free, (being a moderate man, and conſidering their envy and wickedneſs): And Prieſt <hi>Hill</hi> of <hi>Magdalen</hi> Colledge, (ſo called) on a firſt-day coming from his morning worſhip, (being a Proctor ſo called) he met with one or two of our Friends, and he cauſed them to go with him to the Conſtable, and wiſhed him to have them before a Juſtice, but he was unwilling, in regard he knew that the Mayor had releaſed ſome before, of our Friends: he came forth with the Conſtable, and what order he had, we knew not; but the then Mayor ſent for them, and charged the Conſtable to releaſe them, which did exceedingly inrage the Schollars, and the rude multitude, inſomuch that they came into the Meeting Houſe, and ſtormed like ſo many bedlams or mad People, becauſe they could not have their wills, nor any wayes break our Meetings, ſo that many hundreds of the Schollars came re<g ref="char:EOLhyphen"/>ſolved to do what they could, in the malice of their hearts againſt us: and one rude fellow, a Painter (who hath preached for the Schollars; when they have not a Sermon ready, they get him,) came in, and was ſett on by the Schollars to ſing a Pſalm, and ſo he did, and a great many ſang with him, and ſome laughed and hollow<g ref="char:EOLhyphen"/>ed, and made a noiſe, mocking and ſcoffing; but did ſing but three or ſour lines, and then the Schollars broke out into a laughter: and ſo as in former Ages the Drunkards made ſongs of <hi>David,</hi> and he was had in deriſion daily by ſuch unclean Birds as theſe are. But they not prevailing this way over us, with all their mockings and ſcoffings, and tauntings at us; The Schollars then fell to acting with their hatts and hands all they could imagine, and having a Mayor come to bear Rule in the Town, who they thought would let them alone in whatſoever they did, they took incouragement, and fell on to do their Maſters Works with boldneſs, and for ſeveral firſt-dayes were ſo brutiſh, that it is even a ſhame to relate: but, that all may ſee what Fruits are brought forth in this Fountain; and ſee what bitter-water ſtreams forth into this Nation from this Place, I ſhall give a little taſte of the Schollars Fruits which they bring forth.</p>
+            <p>And firſt, As we were fitting peaceably, and waiting upon the Lord to hear his Truth declared unto us, they came and put up our Hats, and looked us in the Faces, talking unto us, ſometimes hollow<g ref="char:EOLhyphen"/>ing, hiſſing, and making ſport: and when it hath been deſired of them to be ſober, they ſaid, They did not come there to be ſober; ſometimes
+<pb n="7" facs="tcp:62086:4"/>calling for Bear and Tobacco, and telling us, We <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> out the Spirit. Now if theſe things are not all to be condemned, judge you yourſelves; and whether it is not a ſhame that theſe ſhould have the name of Nur<g ref="char:EOLhyphen"/>ſers of Piety, and Plants for Miniſters.</p>
+            <p>And when they had done what they could to provoke us unto words, by pulling ſome of our Hats off, and taking us by the hand, and ſome by the noſe, and yet could not prevent our Meeting, or break it up; they threw ſeveral things at us, as Apple Cores and Parings, and Tobac<g ref="char:EOLhyphen"/>co-pipes; beſides mockings and ſcoffings: and one <hi>Paris</hi> an antient man was hauled about, and tumbled down, and trod upon, by the Schollars in the Meeting: and ſeveral times they cracked nuts, and ſlung handfulls of ſhells at Friends ſaces, and ſaid, <hi>They would by theſe Actions make the Spirit ſpeak;</hi> And the Schollars pul'd the Wo<g ref="char:EOLhyphen"/>mens Head cloathes oſt in the Meetings, and daub'd their hands over their Face, and piſs'd in the Entry among the People, and daub'd the look of the Door and key with Dung, that we could not tell how to touch it.</p>
+            <p>After one of their Doctors in <hi>Cambridge</hi> had aſſaulted <hi>Thomas Nicholſon,</hi> the late Mayor in the Street; the next day at the Steeple-Houſe ſeveral Schollars there appeared in Contempt againſt the Mayor, and one of the Schollars hung a piece of his ſhirt-tayl or linnen, or ſome ſuch thing, upon the Gown of the Mayor's Officer, in contempt and deriſion to the Mayor, becauſe the Doctor had not the Wall of the Mayor as he would, when he in contempt aſſaulted the Mayor. And when Friends have been moved to ſpeak to the Schol<g ref="char:EOLhyphen"/>lars, they have threatned to kick them; And is this called an Eye of the Nation and the Nurſery? And is this great pudder in the Nation for Maintenance for this Nurſery, to maintain theſe Schollars in theſe Actions? And are theſe the Men that muſt teach the Nations? And is this Your breeding of Them? Surely, modeſty would ſhame at theſe things if it were amongſt You, Who have been warned often: But your Actions muſt come to Publique View, that the Nations may not be deceived by you; Who are worſe then the Phariſees, whoſe out-ſides are not fair.</p>
+            <p>And at one meeting, when the Schollars ſaw that all their unſeemly and irreverent Scoſſing and Mocking at what was declared would not break up the Meeting; then they threw Tobacco-pipes, and when that would not do what they intended to have done, nor did not move us, but we patiently ſuffering for the Truth's ſake, then the Schollars were reſolved to pull down him that ſpake, and cryed aloud, <hi>Down with him,
+<pb n="8" facs="tcp:62086:5"/>Down with him,</hi> ſeveral times together, and did attempt to do the thing, but were prevented by the power of the Lord; and they would run through our Meeting-place like ſo many wild Horſes, throwing all down afore them, and did hollow, ſtamp, hiſſe, and ſhout, on purpoſe that none ſhould hear what was declared, and thinking thereby to ſi<g ref="char:EOLhyphen"/>lence <hi>William Allen</hi> (who then ſpake) but could not; and they ſeeing all this would not do any thing as to fulfil their wicked deſires, then they let down the windowes, and ſhut up the doors, ſo that at one end of the Houſe, next the ſtreet, we had not any light: and then the Schollars laughed, and ſcoffed, and ſaid, Our Light was Darkneſs, and they had ſhut us up in Darkneſſe, and words to that purpoſe; and then the Schollars clapt the windows up and down, as if they would have broke them off the Hindges, and when we opened the doors they ſhut them again, and when they threw Friends down they would tread on them: And theſe things they acted in the time of their Worſhip.</p>
+            <p>And ſeeing they could not, with all theſe wicked Actions, break up the Meeting, then they appeared more and more filthy and brutiſh, and the Schollars began to ſtamp with their Heels againſt the boards, and made a noiſe as if ſeveral Drums had been beating up, and laboured what they could to prevent him <hi>[William Allen]</hi> from ſpeaking: Then they went out into the next Yard, and took old wet Mapps, and old Diſh-cloaths, and dragged them through the dirty Kennels, and came and threw them at our Friend that was ſpeaking, and at us alſo, and therewith mired and dirted Friends. And there was a great ſtrong wooden Chaire which a Friend ſate in, to bear the rude Schollars and People off from <hi>William Allen</hi> that ſpake; and becauſe the Schollars could not make him riſe up that ſate in the Chaire, to give them way to fulfil their Wills, the Schollars pulled the Chaire all to pieces, and made it in two horns, and poked <hi>William Allen</hi> in the face with it, and ſhouted and hollowed as if they had done a great matter, and threw ſome of the Chaire at him, and at Friends; But this would not ſatisfy their miſchievous deſires, but they did abuſe the Friend that ſate in the Chaire, and pulled his Coat all to pieces off from his back. And the Mayor being coming from the Steeple-houſe, the Friend went and told him what the Schollars had done unto him, and ſhewed him his Coat which was ſo rent; but there was <hi>John Lowrey</hi> one of the laſt <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> he, inſtead of doing Juſtice and puniſhing the Offendors, ſaid That he might have ſtayd at home, after he had asked him, Wherefore he came? And the man ſaid, To hear the Word of God I came 9 or 10 <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, out of the Iſle of <hi>Ely.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:62086:5"/>
+And further, at the ſame meeting, the Schollars threw dirt, and clay, and ſtones, and other things, as Bones, and rotten Apples, and what they could gather up in the ſtreet, and flung at <hi>William Allen,</hi> and friends; and cut his lipp that the Blood guſhed forth, and battered his head in two or three places, beſides what blows he had on the body: and the Schollars tore Alderman <hi>Blackley</hi>'s Son's Coat off his ſhoulders; and one rude Schollar took <hi>John Peace</hi> by the hand, and took two fing<g ref="char:EOLhyphen"/>ers in one hand, and two in the other hand, and pulled them, as if he would have broke them each from the other, which put him to great pain, &amp; the Schollar threatned him, that when he mett him in the ſtreet he would baſte him: And the rude Schollars called Alderman <hi>Blakely</hi> Old Rogue, and ſcoffed at him, and abuſed him very much. And <hi>John Peace</hi> hearing the Mayor was coming by, he went forth of the meeting, and ſpake to the Mayor and ſome others with him, deſiring him in the fear of the Lord to execute Juſtice upon the Tranſgreſſors; and one of the rude Schollars, ſtanding by the Mayor, which had threatned him, and pulled him by the fingers, as above mentioned, he told the Mayor of him, and the Mayor turning and looking upon the Schollar, did ſay ſomething to him, but the Schollar denyed what he had ſaid and done; and then <hi>John Peace</hi> told the Schollar he was a Lyar, whereat the May<g ref="char:EOLhyphen"/>or was offended at him, for reproving him of his wickedneſs; So that Night he was moved to write to the Mayor, and carry ſome of the Dirt, and Stones, and ſhewed him them, and told him, if he did not execute Juſtice againſt ſuch Offenders, the ſtones ſhould be a witneſs againſt him, and ſo laid them at his Door, and left him to read thoſe lines; and ſoon after, the Mayor ſent for <hi>John Peace,</hi> when his Paſſion was over, and began to reaſon with him, and ſaid, It was not civil for him to tell the Schollar, He lyed; I told him I ſpake Truth in ſo ſaying; He ſaid, I was not to ſpeak Truth at all times: And this was ſad that a Magi<g ref="char:EOLhyphen"/>ſtrate ſhould teach ſuch a Saying; and at that time the Mayor gave him a Warrant to the Conſtables, but they did nothing to prevent the rude Schollars; for the next day, many of the rude Schollars came to the Meeting, and were reſolved to pull <hi>William Allen</hi> down, and to break up our Meeting, which they had often atempted; and truly it is to be feared that Murther was in their hearts.</p>
+            <p>For ſome of the People of the World, have come to ſome of our houſes, who have ſeen the Carriage of theſe rude Schollars, in our Meetings towards us, to know whether ſome of us were not murthered.</p>
+            <p>And they have ſpoken great ſwelling words forth, but the Lord kept them from acting any ſuch thing, if they did intend it; but at the Meeting, they were ſo
+<pb n="10" facs="tcp:62086:6"/>wild and bruitiſh, and ſhameleſs and naſty (we mean the Schollars), That they did hawk and ſpit ſuch naſty filth upon <hi>William Allen,</hi> and Friends faces, and hair, and loathes, that his hair was like unto froth, and that it was a ſhame to ſee it: and <hi>William Allen</hi> ſaid his face was ſtiff with the filth which was ſpat upon his face by the Schollars, and as we par<g ref="char:EOLhyphen"/>ted from the Meeting, one <hi>Luce Field</hi> was thrown down into the kennel by the Schollars, and her Hart trode in the dirt: And ſeveral times paſſing from the Meeting ſeveral Friends have had mire and dirt thrown upon them by the Schollars, and there hath been almoſt a whole ſtreet full of them hollowing and tearing of Us, and the Keeper of the Li<g ref="char:EOLhyphen"/>brary in <hi>Cambridge</hi> hath boaſted of theſe and ſuch like Actions of the Schollars.</p>
+            <p>And the rude Schollars have eften taken up Womens Coates in the Streets, as they paſſe along, and in the Meeting; fleſhly, filthy, luſtfull Beaſts; and would lay hold on Women in the Streets, and lugg them, and pull them, and kiſſe them in the Meeting, and in the Street: and if they turned their Heads from one Company, other Schollars would come on the other ſide and kiſſe them: and theſe Schollars have made antient Women to ſtand in the ſink, untill they had torn the Coates off their Backs. Now are not theſe a ſtink in your Noſtrills, and are theſe your Miniſters you ſend out into the Nation? Is <hi>Cambridge</hi> become as <hi>Sodom?</hi> there was ſo many hundreds of them, that the Women can hardly paſs the Streets, but are abuſed by them; here you may ſee <hi>Cambridge</hi> Fruits, and the Fruits of the Prieſts which are come from <hi>Oxford</hi> and <hi>Cambridge;</hi> as let <hi>Cheſhire</hi> and <hi>Lancaſhire</hi> witneſs, and the whole Nation, What filthy work they make with poor People, priſoning them for their hellies, even ſuch they do no work for.</p>
+            <p>And one Friend was put in the ſtocks by <hi>William Pikering</hi> Mayor, and ſet many hours, and the Schollars were very rude, and did much abuſe him; and ſome of them got bread, and ſpread tallow and dirt upon the Bread, and put it to the Friends mouth, and ſaid, <hi>They would make him eat it.</hi>
+            </p>
+            <p>And the Schollars have taken up Excrements, and thrown it into the meeting to Friends. Now if We ſhould ſerve Your Maſe-Houſes ſo, Your old Popiſh Colledges, what a rage would You have been in? And it may be taken notice of, that ſeveral of the Fellows and Proctor of <hi>Sidney</hi> Colledge have ſtood by, and ſeen the Schollars act ſome of this wickedneſs and brutiſhneſs; and yet did nor reprove them, but rather encouraged them.</p>
+            <p>
+               <pb n="11" facs="tcp:62086:6"/>
+And when Alderman <hi>Nicholſon</hi> went into the Colledge, and told the Proctor of the Actions of the Schollars, and ſpoke to him to keep them quiet; he told him in plain words, he could not, nor would not: Now theſe things cannot be otherwiſe expected from theſe Proctors, Vice-Chancellors, and Tutors, and Schollars; Who have their Bowles, their Games, and their Tennis-Courts in their Colledges, and Fidles and Muſick, and Muſick-Arts, and Cards, Dice, Shovel-Boards; and fencing, more liker Tinkers, and Pedlars, and Colliers, then Houſes for Profeſſors of the Goſpel: Are theſe Places to make Miniſters for Chriſt? Are theſe good Examples? more liker Taverns for Drunkards; Nay, there are hardly the Actions as (they have Acted before mentioned) done in the Taverns and Ale houſes in the Nation, in their Houſes, as are Acted in your Houſes amongſt you: Oh this grieves the Righte<g ref="char:EOLhyphen"/>ous! and makes the Juſt ſick, That the Nation ſhould be loaded with ſuch filth, ſuch a Houſe of filth.</p>
+            <p>And further, the ſaid <hi>Smith,</hi> Prieſt, before mentioned, cauſed the place in the Maſſe Houſe, where the Holy Water, as they call it, uſed to be put in, to be opened, and a Croſſe to be put a top of the Steeple<g ref="char:EOLhyphen"/>houſe.</p>
+            <p>And at another Meeting, as <hi>George Whitehead</hi> was a declaring the Truth to the People, the Schollars came and were very rude, and crow<g ref="char:EOLhyphen"/>ded much upon him, and cryed our, let us ſmother him; and if the Mayor had not appeared preſently in the Meeting, it is likely they would have miſchiefed him; beſides, the ſaid <hi>G. W.</hi> hath ſuffered ſeve<g ref="char:EOLhyphen"/>ral times by the rude Schollars, and the Schollars took Alderman <hi>Blacklyes</hi> Hatt off his head, and threw it away among the rude multi<g ref="char:EOLhyphen"/>tude, and he ſtood bare-headed untill they threw it to him again, and <hi>John Peace</hi> aforeſaid, had his Coat rent, at their publique Commence<g ref="char:EOLhyphen"/>ment, for giving ſome Papers to the Vice Chancellor; and he was hurried to and fro, and ſome cryed, hang him, ſome ſtone him, ſome knock him on the head.</p>
+            <p>And <hi>I homas Nicholſon</hi> being a ſober man, Who was the former Mayor, underſtanding ſome thing of their filthy behaviour at our Mee<g ref="char:EOLhyphen"/>tings, and being ſenſible of their cruelty and wickedneſs, was Reſolved the next day to come in Perſon, and ſo he did, and brought half adozen Conſtables with him, and ſo prevented their miſcheivous Ends and In<g ref="char:EOLhyphen"/>tentions: and the ſaid Alderman <hi>Nicholſon</hi> very boldly and valiantly ſtood upon a forme to the view of all the People ſome hours, and heard the Truth, which was of good ſervice to the Lord, to ſtop the vio<g ref="char:EOLhyphen"/>lent.</p>
+            <p>
+               <pb n="12" facs="tcp:62086:7"/>
+And ſeveral times the Conſtables have been fain to ſtand to keep our Meetings.</p>
+            <p>Therefore let theſe things be ſufficient which are paſt, and repent, and amend your lives, leſt your wickedneſs ſwell to a mountain, and your filthineſs and ungodlineſs running out of ſo many fountains, may gather together to be a Sea: And is not this the Cage of unclean Birds ſpoken of in the <hi>Revelations?</hi> Are theſe the Miniſters you lay your hands on? to ſend them out in the Nations to deceive People for diſho<g ref="char:EOLhyphen"/>neſt gain, and to haul People before Courts becauſe they will not put in<g ref="char:EOLhyphen"/>to their mouths, and caſt them into Priſon that they do no work for; Therefore every one, High and Low, ye have time now, prize it, and conſider in your ſelves whether theſe things be not an ill ſavour both with God and Man; <hi>Therefore do ſo no more, leſt a worſe thing come upon you.</hi>
+            </p>
+            <p>We whoſe Names are here under-Written, have been Eye-wit<g ref="char:EOLhyphen"/>neſſes of theſe filthy and abominable Practiſes.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Edward Sammon</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Letchworth</hi>
+                     </item>
+                     <item>
+                        <hi>George Clark</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Edmondſon</hi>
+                     </item>
+                     <item>
+                        <hi>Mary Godfrey</hi>
+                     </item>
+                     <item>
+                        <hi>James Blackely</hi> Ald.</item>
+                     <item>
+                        <hi>Mathew Blarkely</hi>
+                     </item>
+                     <item>
+                        <hi>Nicholas Froſt</hi>
+                     </item>
+                     <item>
+                        <hi>John Peace</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Coarſe</hi>
+                     </item>
+                     <item>
+                        <hi>John Clark</hi>
+                     </item>
+                     <item>
+                        <hi>Alexander Pariſh.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="13" facs="tcp:62086:7"/>
+            <head>Here followeth the Coppy of a Letter, with ſome Addition to it, which <hi>John Peace</hi> gave to the Mayor <hi>John Ewin.</hi> From the Lord God of life and Power, am I moved this to declare un<g ref="char:EOLhyphen"/>to thee.</head>
+            <p>WHereas the Lord by his Providence hath called thee to be chief Magiſtrate, or Governour of this Town: This the Lord God requires of thee; Thou having the Sword in thy hand, Know this from the Lord, that it is not put into thy hand in vain; For it is not given into thy hand thereby to rule for thy ſelf, or any waies to ſet up thy ſelf, but thou art to rule in the fear of the Lord (for God), with<g ref="char:EOLhyphen"/>out having reſpect to any Man's Perſon for any advantage whatſoever. And thou art to defend and protect his People from all manner of Vio<g ref="char:EOLhyphen"/>lence, Wrongs, and Injuries, offered unto them, which many of the dear Servants of the Lord have ſuffered, and do daily ſuffer, for bearing their Teſtimony againſt their ungodly practiſes; But know thou this, That they are as dear to him as the Apple of his Eye, and what is done to one of the leaſt of his little Ones, he takes as done unto himſelf. Therefore in His fear, I exhort thee to ſtir up that noble Principle of God in thee, even that which reproves thee in ſecret, and ſtands a living Witneſs for God againſt the leaſt appearance of Evil in thy own parti<g ref="char:EOLhyphen"/>cular; and that being minded in thy own particular, the ſame will lead thee forth to act for God in the general, and it will cauſe thee to lay thy Sword upon Evil-Doers, thereby to cut down all manner of Sin and Wickedneſs, and that thou maiſt be a terror to all the wicked and un<g ref="char:EOLhyphen"/>godly in this Town, and to puniſh all that do Evil, and not a praiſe to them; that ſo Righteouſneſs may be the Fruit of thy Government, that ſo thou maiſt have the Praiſe of all them that do well, and that thou maiſt be an Inſtrument in the hand of the Lord, for the ſtaying of the heavy Judgments which will undoubtedly come upon all that do act wicked<g ref="char:EOLhyphen"/>ly and malitiouſly in this Town againſt the Servants of the Lord: And know thou this from the Lord, That if thou wink at Iniquity, and
+<pb n="15" facs="tcp:62086:8"/>call the proud Happy, and ſet up and ſtrengthen the hands of Evil-Do<g ref="char:EOLhyphen"/>ers, and turn thy Sword backward like a blind man, then the Lord will requite thee, who damms not up the ungodly unrighteous floods of Iniquity from running down the ſtreets; for the Schollars and young Miniſters ſhould be ſuch Plants as ſhould damm up the Ungodly and ſtop the way of the wicked. This is the Fruit of the Plants of Renown which comes from the Nurſery of <hi>Christ;</hi> ſo let your Gates be a praiſe and not prophane, let your Gates be righteous and not ungodly, ſo cleanſe this Nurſery of ungodly men, unfruitful Plants, fruitful Plants of Unrighteouſneſs, but unfruitful towards God, which are the Work<g ref="char:EOLhyphen"/>ers of Darkneſs, with whom no Fellowſhip is to be had, but to be re<g ref="char:EOLhyphen"/>proved: And if thou countenance thoſe that act wickedly, in abuſing the Servants of the living God, thou ſhalt not eſcape the Judgments of the Lord, but thou with them that do wickedly ſhall receive a Reward according to your Works.</p>
+            <p>Therefore, once more from the Lord, in Bowels of Love to thy Soul, and in pure Subjection to thy Authority (ſo far as thou ruleſt for God) do I deſire, that thou wouldeſt diſcharge thy Conſcience in executing Juſtice and true Judgment upon all Ungodlineſs, that there may be a good ſavour in your ſtreets. And ſo in obedience to the motions of God, I have cleared my Conſcience.</p>
+            <closer>
+               <signed>
+                  <hi>This is from a Lover of Righteouſ<g ref="char:EOLhyphen"/>neſs, and a Hater of every evill way, and all the Ungodlineſs of Men,</hi>
+Known by the name of <hi>John Peace.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62086:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
